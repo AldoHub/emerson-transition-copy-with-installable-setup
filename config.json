@@ -1,0 +1,695 @@
+
+{
+    "resources": [
+{
+        "Advanced Chemical Recycling" : {
+            "book_type": "eBook",
+            "images" : [
+                "/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0001.jpg",
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0002.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0003.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0004.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0005.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0006.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0007.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0008.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0009.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0010.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0011.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0012.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0013.jpg",
+
+	"/chemical/Emerson_Chemical_Circular-Plastics-eBook (5)_page-0014.jpg"
+
+            ],
+            "file": [
+                "/chemical/Emerson_Chemical_Circular-Plastics-eBook (5).pdf"
+
+            ],
+            "content" : {
+                "main_title": "Advanced Chemical Recycling", 
+                "title": "Automation Technology Closes the Loop on Circular Plastics",
+                "content": "<p>Plastics recycling is becoming more necessary to advance worldwide sustainability efforts. As the demand for recycled product grows, manufacturers are realizing how advanced automation can boost operating performance and improve safety, while achieving sustainability targets. </p><p> Download this e-book for insights on how you can meet these demands.</p>",
+                "qr": "/chemical/Emerson_Chemical_Circular-Plastics-eBook.png"
+
+            }
+           
+        }
+       },
+       {
+        "Electric Vehicle Battery Manufacturing" : {
+            "book_type": "eBook",
+            "images" : [
+                "/evb/Lithium-Batteries-eBook-1.jpg",
+                "/evb/Lithium-Batteries-eBook-2.jpg",
+                "/evb/Lithium-Batteries-eBook-3.jpg",
+                "/evb/Lithium-Batteries-eBook-4.jpg",
+                "/evb/Lithium-Batteries-eBook-5.jpg",
+                "/evb/Lithium-Batteries-eBook-6.jpg",
+                "/evb/Lithium-Batteries-eBook-7.jpg",
+                "/evb/Lithium-Batteries-eBook-8.jpg",
+                "/evb/Lithium-Batteries-eBook-9.jpg",
+                "/evb/Lithium-Batteries-eBook-10.jpg",
+                "/evb/Lithium-Batteries-eBook-11.jpg",
+                "/evb/Lithium-Batteries-eBook-12.jpg",
+                "/evb/Lithium-Batteries-eBook-13.jpg"
+                
+            ],
+            "file": [
+                "/evb/Lithium-Batteries-eBook.pdf"
+            ],
+            "content" : {
+                "main_title": "Electric Vehicle Battery Manufacturing", 
+                "title": "Ensure Safety and Optimized Production of Lithium Batteries",
+                "content": "<p>With the lithium-ion battery industry evolving rapidly, manufacturers must overcome challenges associated with mining, refining, battery component manufacturing, and battery cell production. That's why they need access to advanced control, increased process visibility, and actionable information for improved decision-making. </p><p> Download the e-book for insights.</p>",
+                "qr": "/evb/Emerson_EVB Manufacturing_Lithium eBook_2022_EN_Final.png"
+            }
+            
+        }
+       },
+                     {
+        "Electrolysis Plant" : {
+            "book_type": "eBook",
+            "images" : [
+                "/electrolyzer/Green-Hydrogen-eBook-1.jpg",
+             "/electrolyzer/Green-Hydrogen-eBook-2.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-3.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-4.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-5.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-6.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-7.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-8.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-9.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-10.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-11.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-12.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-13.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-14.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-15.jpg",
+
+             "/electrolyzer/Green-Hydrogen-eBook-16.jpg",
+             
+			"/electrolyzer/Green-Hydrogen-eBook-17.jpg"
+             
+            ],
+            "file": [
+                "/electrolyzer/Green-Hydrogen-eBook.pdf"
+            ],
+            "content" : {
+                "main_title": "Electrolysis Plant", 
+                "title": "Accelerating the Transition to Hydrogen Fuel",
+                "content": "<p>With the growing demand for green hydrogen-which is emerging as the clean fuel of the future and a key enabler to achieve global decarbonization objectives-hydrogen producers need solutions that enable safe, reliable, cost-effective and efficient operations, while scaling up responsibly to meet market demand. </p><p> Download this e-book for details.</p>",
+                "qr":   "/electrolyzer/Emerson_Electrolyzer_Hydrogen_eBook_2021.png"
+
+            }
+        }
+       },      
+ {
+        "Utility Company" : {
+            "book_type": "White Paper",
+            "images" : [
+                "/utility_company/Emerson_Utility Company_socalgas-delivers-clean-energy-for-[h2]-innovation-experience-en-8618038_page-0001.jpg",
+
+                "/utility_company/Emerson_Utility Company_socalgas-delivers-clean-energy-for-[h2]-innovation-experience-en-8618038_page-0002.jpg",
+
+                "/utility_company/Emerson_Utility Company_socalgas-delivers-clean-energy-for-[h2]-innovation-experience-en-8618038_page-0003.jpg",
+
+                "/utility_company/Emerson_Utility Company_socalgas-delivers-clean-energy-for-[h2]-innovation-experience-en-8618038_page-0004.jpg",
+
+                "/utility_company/Emerson_Utility Company_socalgas-delivers-clean-energy-for-[h2]-innovation-experience-en-8618038_page-0005.jpg"
+
+
+
+            ],
+            "file": [
+                
+
+                "/utility_company/Hydrogen-Home-White-Paper (2).pdf"
+
+            ],
+            "content" : {
+                "main_title": "Utility Company", 
+                "title": "Emerson Technologies Help SoCalGas Deliver Clean Energy [H2]",
+                "content": "<p>Learn how Southern California Gas, a regulated subsidiary of Sempra Energy, worked with Emerson to deploy digital technologies, software, and services to demonstrate the resiliency and reliability of a hydrogen microgrid for Southern California utility consumers.</p><p> Download this white paper to discover how they optimally balanced energy consumption with sophisticated control and precise measurement.</p>",
+                "qr": "/utility_company/Emerson_Utility Company_socalgas-delivers-clean-energy-for-[h2]-innovation-experience-en-861.png"
+            },
+            "cart" : "/utility_company/cart_Emerson_Utility .jpg"
+        }
+       },
+       
+       {
+        "Gas Processing Plant" : {
+            "book_type": "eBook",
+            "images" : [
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0001.jpg",
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0002.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0003.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0004.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0005.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0006.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0007.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0008.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0009.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0010.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0011.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0012.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0013.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0014.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0015.jpg",
+
+
+                "/gas/Emerson_Gas Processing_air-separation-e-book_page-0016.jpg"
+
+
+
+            ],
+            "file": [
+                "/gas/Emerson_Gas Processing_air-separation-e-book.pdf"
+
+            ],
+            "content" : {
+                "main_title": "Gas Processing Plant", 
+                "title": "How to Improve Reliability and Safety in Air Separation Units",
+                "content": "<p>Because industrial gases are used as feedstock for many process manufacturers, operators need practical tips on how to ensure safety and reliability when using an onsite air separation unit to process these gases. </p><p> Access effective strategies by downloading this e-book.</p>",
+                "qr": "/gas/Emerson_Gas Processing_air-separation-e-book.png"
+
+
+            }
+        }
+       },
+       
+              {
+        "Refinery" : {
+            "book_type": "eBook",
+            "images" : [          
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0001.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0002.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0003.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0004.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0005.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0006.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0007.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0008.jpg",
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED_page-0009.jpg"
+
+            ],
+            "file": [
+      "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook_UPDATED.pdf"
+
+            ],
+            "content" : {
+                "main_title": "Refinery", 
+                "title": "Sustainable Strategies for Reducing Energy & Emissions in Refineries",
+                "content": "<p>With the advancement of process and automation technologies, refineries today have more data-driven, digital, and economical tools and tactics they can utilize to more proactively tackle their energy and emissions management initiatives. </p><p> Download the e-book to gain new strategies and insights.</p>",
+                "qr":       
+"/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook.png"
+
+            }
+        }
+       },
+       {
+        "Green Diesel Facility" : {
+            "book_type": "White Paper",
+            "images" : [
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0001.jpg",
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0002.jpg",
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0003.jpg",
+
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0004.jpg",
+
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0005.jpg",
+
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0006.jpg",
+
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0007.jpg",
+
+
+"/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper_page-0008.jpg"
+
+
+            ],
+            "file": [
+                "/green_diesel_facility/automation-technology-supports-growing-demand-for-green-diesel-en-10712814.pdf"
+            ],
+            "content" : {
+                "main_title": "Green Diesel Facility", 
+                "title": "Automation Technology Supports Growing Demand for Green Diesel",
+                "content": "<p>As the energy transition continues, green diesel is poised for growth. Today's alternative fuel projects now hinge on reducing each plant's carbon footprint. This is quantified via a carbon intensity score-the calculating of total hydrocarbons consumed or greenhouse gases released per unit of energy produced. Discover digital technologies that optimize green diesel production. </p><p> Download the white paper to learn more.</p>",
+                "qr": 
+                "/green_diesel_facility/Emerson_Green Diesel_Refining_Green-Diesel-White-Paper.png"
+
+            },
+            "cart" : "/green_diesel_facility/cart_Emerson_Green Diesel.jpg"
+        }
+       },
+       {
+        "Renewable Natural Gas" : {
+            "book_type": "eBook",
+            "images" : [
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-1.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-2.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-3.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-4.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-5.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-6.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-7.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-8.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-9.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-10.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-11.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-12.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-13.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-14.jpg",
+
+                "/renewable_natural_gas/Renewable-Natural-Gas-eBook-15.jpg"
+
+            ],
+            "file": [
+"/renewable_natural_gas/Renewable-Natural-Gas-eBook.pdf"
+
+
+            ],
+            "content" : {
+                "main_title": "Renewable Natural Gas", 
+                "title": "Renewable Natural Gas - A Path to Decarbonization",
+                "content": "<p>Many countries have introduced legislation to encourage the use of renewable energy. For natural gas utilities, the injection of renewable natural gas and hydrogen into the transmission and distribution network is accelerating the transition to a carbon neutral energy supply. </p><p>Download the e-book to access strategies for cost-effectively meeting this goal.</p>",
+                "qr": "/renewable_natural_gas/Emerson_Renewable Natural Gas_RNG-E-book.png"
+            }
+        }
+       },
+       {
+        "Blue Hydrogen" : {
+            "book_type": "eBook",
+            "images" : [
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0001.jpg",
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0002.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0003.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0004.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0005.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0006.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0007.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0008.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0009.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0010.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0011.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0012.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0013.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0014.jpg",
+
+
+                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook_page-0015.jpg"
+
+
+            ],
+            "file": [
+                                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook.pdf"
+
+            ],
+            "content" : {
+                "main_title": "Blue Hydrogen", 
+                "title": "Increasing the Viability of Blue Hydrogen",
+                "content": "<p>Meeting ambitious emission-reducing targets requires an increase in demand for cleaner fuels. As new markets emerge-from domestic heating to transport fuel-blue hydrogen is becoming essential to meeting future demand. </p><p> Download this e-book to find out how you can take advantage of blue hydrogen opportunities.</p>",
+                "qr": "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook.png"
+            },
+            "cart" : "/blue_hydrogen/cart_Blue-Hydrogen.jpg"
+        }
+       },
+
+       {
+        "Carbon Capture Process" : {
+            "book_type": "eBook",
+            "images" : [
+                
+      "/carbon_capture/Carbon-Capture-eBook_page-0001.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0002.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0003.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0004.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0005.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0006.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0007.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0008.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0009.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0010.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0011.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0012.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0013.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0014.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0015.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0016.jpg",
+
+      "/carbon_capture/Carbon-Capture-eBook_page-0017.jpg",
+	
+	 "/carbon_capture/Carbon-Capture-eBook_page-0018.jpg"
+
+
+
+            ],
+            "file": [
+                
+      "/carbon_capture/Carbon-Capture-eBook.pdf"
+
+            ],
+            "content" : {
+                "main_title": "Carbon Capture Process", 
+                "title": "Accelerating and Optimizing Your Carbon Capture, Utilization and Storage",
+                "content": "<p>For some industrial and fuel transformation processes, the method of carbon capture, utilization, and storage is one of the most cost-effective solutions for large-scale greenhouse gas emissions reduction ñ especially those producing a relatively pure CO2 stream. </p><p> Download this e-book to discover how automation can help with capture process efficiency, liquefaction efficiency, compressor reliability, loss of containment, and storage integrity.</p>",
+                "qr": "/carbon_capture/Emerson_Carbon Capture_Carbon_Capture_eBook_2021.png"
+
+            }
+        }
+       },
+ {
+        "Steam Methane Reformer" : {
+            "book_type": "White Paper",
+            "images" : [
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0001.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0002.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0003.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0004.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0005.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0006.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0007.jpg",
+
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper (1)-1_page-0008.jpg"
+
+
+
+            ],
+            "file": [
+
+                      "/steam_methane_reformer/Blue-Hydrogen-Production-White-Paper.pdf"
+
+            ],
+            "content" : {
+                "main_title": "Steam Methane Reformer", 
+                "title": "Automation Technologies to Minimize Energy Intensity in Blue Hydrogen Production",
+                "content": "<p>Balancing emissions reduction and energy efficiency often creates an energy penalty paradox-because trying to control one emission source creates another. Fortunately, there are effective automation technologies designed to minimize energy intensity in blue hydrogen, also known as decarbonized hydrogen. </p><p> Download the white paper for details.</p>",
+                "qr": 
+                      "/steam_methane_reformer/Emerson_SMR_ATR_Blue-Hydrogen-Production-White-Paper.png"
+
+            },
+            "cart": "/steam_methane_reformer/cart_Emerson_SMR.jpg"
+           
+        }
+       },
+       {
+        "Carbon Capture Sequestration" : {
+            "book_type": "White Paper",
+            "images" : [
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0001.jpg", 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0002.jpg", 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0003.jpg", 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0004.jpg", 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0005.jpg", 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0006.jpg", 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0007.jpg"
+
+           ],
+            "file": [
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190.pdf"
+
+            ],
+            "content" : {
+                "main_title": "Carbon Capture Sequestration", 
+                "title": "Advanced Automation Fuels the Growth of Carbon Capture as an Environmental Solution",
+                "content": "<p>Fossil fuels remain a major factor in the energy economy, but carbon capture can reduce their environmental impact. </p><p> Download this white paper to discover how advanced automation improves carbon capture and storage. You'll discover how to capture carbon from combustion, balance energy, and transport carbon dioxide once it is processed.</p>",
+                "qr": 
+
+                "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental.png"
+
+            },
+            "cart": "/carbon_capture_sequestration/cart_Emerson_CC Sequestion.jpg"
+        }
+       }
+
+    ],
+    "cases" : [
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/wind_fields/Case-Study_GVEA_page-0001.jpg"
+
+                ],
+                "file": [
+                    "/wind_fields/Case-Study_GVEA.pdf"
+
+                ],
+                "title": "Helping Alaska's Largest Wind Farm Provide Clean Energy",
+                "index": 0
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                     "/evb_recycling_facility/Case-Study_SungEel-HiTech_page-0001.jpg"
+
+                ],
+                "file": [
+                     "/evb_recycling_facility/Case-Study_SungEel-HiTech.pdf"
+
+                ],
+                "title": "Korea's Largest EV Lithium-Ion Battery Recycler Expands Production",
+                "index": 3
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    
+                "/chemical_plant/Case-Study_ReNew-ELP-Plastics_page-0001.jpg"
+
+                ],
+                "file": [
+                    
+                "/chemical_plant/Case-Study_ReNew-ELP-Plastics.pdf"
+
+                ],
+                "title": "Achieving Safe, Efficient Operation of Plastics Recycling Plant ",
+                "index": 4
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/refueling_station/Case-Study_H2-Hauler_page-0001.jpg"
+
+                ],
+                "file": [
+                    "/refueling_station/Case-Study_H2-Hauler.pdf"
+
+                ],
+                "title": "H2 Hauler Distribution Network Safely, Reliably, and Efficiently Transports Hydrogen",
+                "index": 6
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+        "/power_plant/Case-Study_EPH-Lynemouth-Power_page-0001.jpg"
+
+                ],
+                "file": [
+                    "/power_plant/Case-Study_EPH-Lynemouth-Power.pdf"
+
+                ],
+                "title": "Enabling the Conversion of UK Coal-Fired Plant to Biomass",
+                "index": 7
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/offshore/Case-Study_Equinor_page-0001.jpg"
+
+                ],
+                "file": [
+                    "/offshore/Case-Study_Equinor.pdf"
+
+                ],
+                "title": "Equinor Aims for Carbon-Efficient Production",
+                "index": 9
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/lng_liquefaction/Case-Study_Venture-Global-LNG_page-0001.jpg"
+
+                ],
+                "file": [
+                    "/lng_liquefaction/Case-Study_Venture-Global-LNG.pdf"
+
+                ],
+                "title": "Calcasieu Pass 2 LNG - A New LNG Export Terminal",
+                "index": 11
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/refinery/Case-Study_Fintoil-Biorefinery_page-0001.jpg"
+                ],
+                "file": [
+                    "/refinery/Case-Study_Fintoil-Biorefinery.pdf"
+                ],
+                "title": "Optimizing Fintoil Biorefinery Operations for More Efficient, Sustainable Production",
+                "index": 12
+            }
+        },
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/green_diesel_facility/Case-Study_AltAir-Paramount-LLC_page-0001.jpg"
+                ],
+                "file": [
+                    "/green_diesel_facility/Case-Study_AltAir-Paramount-LLC.pdf"
+                ],
+                "title": "AltAir Paramount Converts Refinery to Produce Biofuels",
+                "index": 13
+            }
+        }, 
+        {
+            "Case Study VentureGlobal LNG" :{
+                "images" : [
+                    "/blue_hydrogen/Case-Study_Enbridge-Gas_page-0001.jpg"
+
+                ],
+                "file": [
+                    "/blue_hydrogen/Case-Study_Enbridge-Gas.pdf"
+
+                ],
+                "title": "Cutting-Edge Technology and Innovation Seamlessly Blends Hydrogen and Natural Gas",
+                "index": 15
+            }
+        }
+    ],
+    "url": "http://emerson.clientdemos.net/emails/requestHandler.php",
+    "testUrl": "http://emerson.clientdemos.net/emails/requestHandler.php",
+    "eloquaUrl": "http://emerson.clientdemos.net/emails/EloquaPod.php",
+    "mode": "",
+    "video_bg": "emerson_transition_video.mp4"
+}

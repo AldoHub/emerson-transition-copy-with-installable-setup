@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emerson Energy Transition</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/css/index.css">
+    <link href="../public/css/styles.css" rel="stylesheet" />
+    <!--<link href="../public/css/wide.css" rel="stylesheet" />-->
+
+</head>
+<body>
+
+    <!--Energy Transition Background V9.jpg-->
+    <div class="main-container">
+        
+        <!-- left sidebar - resources -->
+        <div class="sidebar bar">
+            <h2 class="sidebar-title">
+                Explore More
+            </h2>
+            <div class="sidebar-content">
+                <div class="types-selector">
+                    <p data-type="resources">RESOURCE</p>
+                    <p data-type="cases">CASE STUDY</p>
+                </div>
+                <div class="types-assets">
+                    <!-- content will be generated dynamically depending on the type-->
+                </div>
+            </div>    
+            <div class="handle"><img src="../public/images/hamburger.svg" /></div>
+           <div class="back-arrow"><img src="../public/images/back.png" /></div>
+        </div>
+ 
+        <!-- right sidebar -->
+        <div class="personal-space bar">
+            <h2 class="sidebar-title-reverse">
+                My Files
+            </h2>
+            <div class="items">
+                <!-- cart items will be generated automatically -->
+            </div>
+            <div class="cart-message">
+                <p>Send files to email</p>
+                <div class="email-button">
+                    <img src="../public/images/mail.svg" />
+                </div>
+            </div>
+            <div class="handle"><img src="../public/images/shopping_cart.svg" /></div>
+            
+        </div>
+
+        <!-- overlay -->    
+        <div class="overlay"></div>
+        
+        <!-- modal box -->
+        <div class="modal">
+            <div class="modal-header">
+                <h2><span class="main-title">Some inner content</span> <span class="close-modal"><img src="../public/images/white_x.svg" /></span></h2>
+            </div>
+            
+            <div class="_wrapper">
+                <!--- turnjs flipbook -->
+                <div class="flipbook"></div>
+                <div class="controls">
+                    <div>
+                        <div>
+                            <div>
+                                <button class="prev-page">&lt;</button>
+                                <div class="pages"><span class="page">0-1</span> / <span class="total-pages">#</span></div>
+                                <button class="next-page">&gt;</button>
+                            </div>
+                            <button class="fullscreen"><img src='./../public/images/fullscreen_icon.png' /><span>Fullscreen</span></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="arrows-wrapper">
+                    <img class="prev-arrow" src="./../public/images/left_Arrow.svg" />
+                    <img class="next-arrow" src="./../public/images/right_arrow.svg" />
+                </div>
+                <div class="modal-content"></div>
+            </div>
+        </div>
+
+
+        <!-- keyboard -->
+        <div class="keyboard-wrapper">
+            <div class="cart-form-wrapper">
+                <h2>Send files from this cart to your email</h2>
+                <form>
+                    <div>
+                        <label for="name">Name*</label>
+                        <input class='keyboard-text' type="text" name="name" required="required" value=""/>
+                    </div>
+                    <div>
+                        <label for="email">Email*</label>
+                        <input class='keyboard-text' type="text" name="email" required="required" value=""/>
+                    </div>
+                    <p>Your information is Safe with us!</p>
+                    <button class="cart-form-submit" type="submit">Send</button>
+                </form>
+                
+                <div class="close-keyboard"><img src='../public/images/white_x.svg' /></div>
+                
+            </div>
+            <div class="simple-keyboard"></div>
+           
+        </div>
+
+        <div class="success-message-wrapper">
+            <div class="success-message">
+                <img src="../public/images/check.svg" />
+                <h2>SUCCESS</h2>
+                <p>The email was sent successfully</p>
+                <button class="success-button-submit">Ok</button>
+                <div class="close-success"><img src='../public/images/white_x.svg' /></div>
+            </div>
+        </div>
+        <!-- inner app features -->
+        <button class="reset">RESET</button>
+        <div class="inner-container">    
+          <div>
+            <div class="zone">
+               
+            <!-- main map image -->
+               <!-- <img src="../public/images/Energy Transition Background V9.jpg" />-->
+        
+                <video autoplay loop muted>
+                    <!--<source src="./../public/assets/Energy Transition Background V11_6600x2434.mp4" type="video/mp4">-->
+                    <source src="" type="" />
+                </video>
+
+                <!-- hotspots -->
+                <div class="hotspots-container">
+                    <!-- wind fields -->
+                    <!--<div class="hotspot wf-hotspot-resource hotspot-resource" data-name="Wind Fields" data-type="resources" data-index="0"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot wf-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="0" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+
+                    <!-- advanced chemical recycling -->
+                    <div class="hotspot acr-hotspot-resource hotspot-resource" data-name="Advanced Chemical Recycling"  data-type="resources" data-index="0"><img src='../public/images/orange_plus_stroke.png' /></div>
+
+                    <!-- electric vehicle battery manufacturing -->
+                    <div class="hotspot evb-hotspot-resource hotspot-resource" data-name="Electric Vehicle Battery Manufacturing" data-type="resources" data-index="1" ><img src='../public/images/orange_plus_stroke.png' /></div>
+
+                    <!-- evb recycling facility -->
+                    <!--<div class="hotspot evbr-hotspot-resource hotspot-resource" data-name="EVB Recycling Facility" data-type="resources" data-index="3"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot evbr-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="3" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+ 
+                    <!-- checmical plant -->
+                    <!--<div class="hotspot chp-hotspot-resource hotspot-resource" data-name="Chemical Plant" data-type="resources" data-index="4"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot chp-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="4" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+
+                    <!-- electrolysis plant -->
+                    <div class="hotspot elp-hotspot-resource hotspot-resource" data-name="Electrolysis Plant" data-type="resources" data-index="2"><img src='../public/images/orange_plus_stroke.png' /></div>
+                
+                    <!-- refueling station  -->
+                    <!--<div class="hotspot rfs-hotspot-resource hotspot-resource" data-name="Refueling Station" data-type="resources" data-index="6"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot rfs-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="6" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                    
+                    <!-- power plant  -->
+                    <!--<div class="hotspot pp-hotspot-resource hotspot-resource" data-name="Power Plant" data-type="resources" data-index="7"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot pp-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="7" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                      
+                    <!-- utility company  -->
+                    <div class="hotspot uc-hotspot-resource hotspot-resource" data-name="Utility Company" data-type="resources" data-index="3"><img src='../public/images/orange_plus_stroke.png' /></div>
+                    
+                    <!-- offshore -->
+                    <!--<div class="hotspot ofs-hotspot-resource hotspot-resource" data-name="Offshore" data-type="resources" data-index="9"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot ofs-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="9" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                    
+                    <!-- gas processing plant -->
+                    <div class="hotspot gpp-hotspot-resource hotspot-resource" data-name="Gas Processing Plant" data-type="resources" data-index="4"><img src='../public/images/orange_plus_stroke.png' /></div>
+                    
+                    <!-- LNG  -->
+                    <!--<div class="hotspot lng-hotspot-resource hotspot-resource" data-name="LNG" data-type="resources" data-index="5"><img src='../public/images/orange_plus_stroke.png' /></div>-->
+                    <div class="hotspot lng-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="11" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                       
+                    <!-- refinery -->
+                    <div class="hotspot rf-hotspot-resource hotspot-resource" data-name="Refinery" data-type="resources" data-index="5"><img src='../public/images/orange_plus_stroke.png' /></div>
+                    <div class="hotspot rf-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="12" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                  
+                    <!-- green diesel facility -->
+                    <div class="hotspot gdf-hotspot-resource hotspot-resource" data-name="Green Diesel Facility"  data-type="resources" data-index="6"><img src='../public/images/orange_plus_stroke.png' /></div>
+                    <div class="hotspot gdf-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="13" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                    
+                    <!-- renewable natural gas -->
+                    <div class="hotspot rng-hotspot-resource hotspot-resource" data-name="Renewable Natural Gas" data-type="resources" data-index="7"><img src='../public/images/orange_plus_stroke.png' /></div>
+                
+                    <!-- blue hydrogen -->
+                    <div class="hotspot bh-hotspot-resource hotspot-resource" data-name="Blue Hydrogen" data-type="resources" data-index="8"><img src='../public/images/orange_plus_stroke.png' /></div>
+                    <div class="hotspot bh-hotspot-case hotspot-case" data-name="Case Study VentureGlobal LNG" data-index-config="15" data-type="cases"><img src='../public/images/green_plus_stroke.png' /></div>
+                       
+                    <!-- carbon capture process -->
+                    <div class="hotspot ccp-hotspot-resource hotspot-resource" data-name="Carbon Capture Process" data-type="resources" data-index="9"><img src='../public/images/orange_plus_stroke.png' /></div>
+                   
+                    <!-- steam methane reformer -->
+                    <div class="hotspot smr-hotspot-resource hotspot-resource" data-name="Steam Methane Reformer" data-type="resources" data-index="10"><img src='../public/images/orange_plus_stroke.png' /></div>
+                    
+                    <!-- carbon capture sequestration -->
+                    <div class="hotspot ccs-hotspot-resource hotspot-resource" data-name="Carbon Capture Sequestration" data-type="resources" data-index="11"><img src='../public/images/orange_plus_stroke.png' /></div>
+                  
+                </div>
+            </div>
+            <div class="map-hotspot">
+                <div class="resources-map-hotspot"></div>
+                <div class="cases-map-hotspot"></div>
+            </div>
+            <img class="map-legend" src="../public/images/legend.png" />
+        </div> 
+        </div>
+
+    <div class="footer">
+        <img src="../public/images/logo.jpg" />
+    </div>
+
+    </div>
+    <script src='../public/js/panzoom.min.js'></script>
+    <script type="text/javascript" src="../public/js/jquery-1.7.1.min.js"></script>
+    <script src="../public/js/index.js"></script>
+    <script src="../public/js/turn.js"></script>
+    <script src="../public/js/functions.js"></script>
+
+</body>
+</html>
