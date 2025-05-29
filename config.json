@@ -40,7 +40,7 @@
             "content" : {
                 "main_title": "Advanced Chemical Recycling", 
                 "title": "Automation Technology Closes the Loop on Circular Plastics",
-                "content": "<p>Plastics recycling is becoming more necessary to advance worldwide sustainability efforts. As the demand for recycled product grows, manufacturers are realizing how advanced automation can boost operating performance and improve safety, while achieving sustainability targets. </p><p> Download this e-book for insights on how you can meet these demands.</p>",
+                "content": "<p>Plastics recycling is becoming more necessary to advance worldwide sustainability efforts. As the demand for recycled product grows, manufacturers are realizing how advanced automation can boost operating performance and improve safety, while achieving sustainability targets. </p><p> Download this eBook for insights on how you can meet these demands.</p>",
                 "qr": "/chemical/Emerson_Chemical_Circular-Plastics-eBook.png"
 
             }
@@ -72,7 +72,7 @@
             "content" : {
                 "main_title": "Electric Vehicle Battery Manufacturing", 
                 "title": "Ensure Safety and Optimized Production of Lithium Batteries",
-                "content": "<p>With the lithium-ion battery industry evolving rapidly, manufacturers must overcome challenges associated with mining, refining, battery component manufacturing, and battery cell production. That's why they need access to advanced control, increased process visibility, and actionable information for improved decision-making. </p><p> Download the e-book for insights.</p>",
+                "content": "<p>With the lithium-ion battery industry evolving rapidly, manufacturers must overcome challenges associated with mining, refining, battery component manufacturing, and battery cell production. That's why they need access to advanced control, increased process visibility, and actionable information for improved decision-making. </p><p> Download the eBook for insights.</p>",
                 "qr": "/evb/Emerson_EVB Manufacturing_Lithium eBook_2022_EN_Final.png"
             }
             
@@ -122,7 +122,7 @@
             "content" : {
                 "main_title": "Electrolysis Plant", 
                 "title": "Accelerating the Transition to Hydrogen Fuel",
-                "content": "<p>With the growing demand for green hydrogen-which is emerging as the clean fuel of the future and a key enabler to achieve global decarbonization objectives-hydrogen producers need solutions that enable safe, reliable, cost-effective and efficient operations, while scaling up responsibly to meet market demand. </p><p> Download this e-book for details.</p>",
+                "content": "<p>With the growing demand for green hydrogen-which is emerging as the clean fuel of the future and a key enabler to achieve global decarbonization objectives-hydrogen producers need solutions that enable safe, reliable, cost-effective and efficient operations, while scaling up responsibly to meet market demand. </p><p> Download this eBook for details.</p>",
                 "qr":   "/electrolyzer/Emerson_Electrolyzer_Hydrogen_eBook_2021.png"
 
             }
@@ -221,7 +221,7 @@
             "content" : {
                 "main_title": "Gas Processing Plant", 
                 "title": "How to Improve Reliability and Safety in Air Separation Units",
-                "content": "<p>Because industrial gases are used as feedstock for many process manufacturers, operators need practical tips on how to ensure safety and reliability when using an onsite air separation unit to process these gases. </p><p> Access effective strategies by downloading this e-book.</p>",
+                "content": "<p>Because industrial gases are used as feedstock for many process manufacturers, operators need practical tips on how to ensure safety and reliability when using an onsite air separation unit to process these gases. </p><p> Access effective strategies by downloading this eBook.</p>",
                 "qr": "/gas/Emerson_Gas Processing_air-separation-e-book.png"
 
 
@@ -251,7 +251,7 @@
             "content" : {
                 "main_title": "Refinery", 
                 "title": "Sustainable Strategies for Reducing Energy & Emissions in Refineries",
-                "content": "<p>With the advancement of process and automation technologies, refineries today have more data-driven, digital, and economical tools and tactics they can utilize to more proactively tackle their energy and emissions management initiatives. </p><p> Download the e-book to gain new strategies and insights.</p>",
+                "content": "<p>With the advancement of process and automation technologies, refineries today have more data-driven, digital, and economical tools and tactics they can utilize to more proactively tackle their energy and emissions management initiatives. </p><p> Download the eBook to gain new strategies and insights.</p>",
                 "qr":       
 "/refinery/Emerson_Refinery_Energy_Efficiency_and_Emissions_eBook.png"
 
@@ -342,7 +342,7 @@
             "content" : {
                 "main_title": "Renewable Natural Gas", 
                 "title": "Renewable Natural Gas - A Path to Decarbonization",
-                "content": "<p>Many countries have introduced legislation to encourage the use of renewable energy. For natural gas utilities, the injection of renewable natural gas and hydrogen into the transmission and distribution network is accelerating the transition to a carbon neutral energy supply. </p><p>Download the e-book to access strategies for cost-effectively meeting this goal.</p>",
+                "content": "<p>Many countries have introduced legislation to encourage the use of renewable energy. For natural gas utilities, the injection of renewable natural gas and hydrogen into the transmission and distribution network is accelerating the transition to a carbon neutral energy supply. </p><p>Download the eBook to access strategies for cost-effectively meeting this goal.</p>",
                 "qr": "/renewable_natural_gas/Emerson_Renewable Natural Gas_RNG-E-book.png"
             }
         }
@@ -398,16 +398,16 @@
 
             ],
             "file": [
-                                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook.pdf"
+                                "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_eBook.pdf"
 
             ],
             "content" : {
                 "main_title": "Blue Hydrogen", 
                 "title": "Increasing the Viability of Blue Hydrogen",
-                "content": "<p>Meeting ambitious emission-reducing targets requires an increase in demand for cleaner fuels. As new markets emerge-from domestic heating to transport fuel-blue hydrogen is becoming essential to meeting future demand. </p><p> Download this e-book to find out how you can take advantage of blue hydrogen opportunities.</p>",
+                "content": "<p>Meeting ambitious emission-reducing targets requires an increase in demand for cleaner fuels. As new markets emerge-from domestic heating to transport fuel-blue hydrogen is becoming essential to meeting future demand. </p><p> Download this eBook to find out how you can take advantage of blue hydrogen opportunities.</p>",
                 "qr": "/blue_hydrogen/Emerson_Blue Hydrogen_Increasing_the_Viability_of_Blue_Hydrogen_ebook.png"
             },
-            "cart" : "/blue_hydrogen/cart_Blue-Hydrogen.jpg"
+            "cart" : ""
         }
        },
 
@@ -463,7 +463,7 @@
             "content" : {
                 "main_title": "Carbon Capture Process", 
                 "title": "Accelerating and Optimizing Your Carbon Capture, Utilization and Storage",
-                "content": "<p>For some industrial and fuel transformation processes, the method of carbon capture, utilization, and storage is one of the most cost-effective solutions for large-scale greenhouse gas emissions reduction ñ especially those producing a relatively pure CO2 stream. </p><p> Download this e-book to discover how automation can help with capture process efficiency, liquefaction efficiency, compressor reliability, loss of containment, and storage integrity.</p>",
+                "content": "<p>For some industrial and fuel transformation processes, the method of carbon capture, utilization, and storage is one of the most cost-effective solutions for large-scale greenhouse gas emissions reduction ñ especially those producing a relatively pure CO2 stream. </p><p> Download this eBook to discover how automation can help with capture process efficiency, liquefaction efficiency, compressor reliability, loss of containment, and storage integrity.</p>",
                 "qr": "/carbon_capture/Emerson_Carbon Capture_Carbon_Capture_eBook_2021.png"
 
             }
@@ -527,8 +527,12 @@
 
                 "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190_page-0007.jpg"
 
+
+
+
            ],
             "file": [
+                
 
                 "/carbon_capture_sequestration/Emerson_CC Sequestion_advanced-automation-fuels-growth-of-carbon-capture-as-an-environmental-solution-en-10087190.pdf"
 
@@ -687,9 +691,9 @@
             }
         }
     ],
-    "url": "http://emerson.clientdemos.net/emails/requestHandler.php",
-    "testUrl": "http://emerson.clientdemos.net/emails/requestHandler.php",
-    "eloquaUrl": "http://emerson.clientdemos.net/emails/EloquaPod.php",
+    "url": "https://emerson.clientdemos.net/emails/requestHandler.php",
+    "eloquaUrl": "https://emerson.clientdemos.net/emails/EloquaPod.php",
+    "testUrl": "http://emerson.test/requestHandler.php",
     "mode": "",
-    "video_bg": "emerson_transition_video.mp4"
+    "video_bg": "/emerson_transition_video.mp4"
 }

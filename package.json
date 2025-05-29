@@ -13,7 +13,7 @@
     "app:dist": "electron-builder"
   },
   "build": {
-    "appId": "your.id",
+    "appId": "emerson.energy.transition",
     "nsis": {
       "oneClick": false,
       "perMachine": false

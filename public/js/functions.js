@@ -199,6 +199,7 @@ function resetApp(){
     //close everything else
     hideActiveSidebars();
     resetMenubar();
+    formReset();
     clearCart();
 }
 
@@ -1168,6 +1169,7 @@ function sendUserRequest(request){
             //we are authenticated -- move on
             return fetch(url, requestOptions).then(response => response.json())
             .then(data => data);
+            
         }
     });
     
@@ -1410,6 +1412,11 @@ function addEventToMapHotspots(){
             resetMenubar();
         }
     });
+}
+
+
+function formReset(){
+    form.reset();
 }
 
 function resetMenubar(){
